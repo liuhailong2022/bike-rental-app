@@ -2,10 +2,10 @@ The project is a study-oriented software solution for bike rental that enables c
 
 The technology stack for this project is:
 - React
-- Node.js
+- Node.js / Express
 - PostgreSQL
 
-The folder structure for this project
+The folder structure for this project (TBD)
 ```
 bike-rental-app/
 ├── client/
